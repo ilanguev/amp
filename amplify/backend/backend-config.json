@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"amp4b16ab31": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
